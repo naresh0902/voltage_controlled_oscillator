@@ -16,6 +16,8 @@ Designed and simulated a 90-nm CMOS Voltage-Controlled Ring Oscillator
 
 The VCO uses a multi-stage MOS inverter-based ring oscillator architecture.
 The oscillation frequency is controlled through the applied bias voltage.
+https://github.com/naresh0902/voltage_controlled_oscillator/blob/main/schematic.png
+
 
 ## Simulation Results
 
